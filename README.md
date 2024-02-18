@@ -1,21 +1,35 @@
 ![github-header-image](https://github.com/andyc90/andyc90/assets/127922140/590ef261-b848-4c9b-a981-3ff9408bf0e5)
 
+<div style="display: flex;">
+
+  <div style="flex: 5; margin-right: 20px;">
+
 # Hi, I'm Andrew <img src="https://github.com/andyc90/andyc90/assets/127922140/9fdb21c9-a4b4-4a07-afaf-de18cce882ae" width="35" height="35" alt="animated-wave">
 
 I am passionate about creating beautiful and user-friendly web experiences, on a mission to bring ideas to life through code. With a keen eye for design and a knack for translating concepts into interactive interfaces, I thrive in the ever-evolving world of front-end development.
 
-🌍 Based in the United Kingdom  
-🖥️ See my portfolio at [andrewcookson.co.uk](http://andrewcookson.co.uk)  
-✉️ Contact me at [andrewcookson@email.com](mailto:andrewcookson@email.com)  
-🚀 Currently working on [personal projects](http://github.com/andyc90?tab=projects)  
-🧠 Learning Javascript, React, MySQL & MongoDB  
-🤝 Open to collaborating on interesting projects
+- 🌍 Based in the United Kingdom  
+- 🖥️ See my portfolio at [andrewcookson.co.uk](http://andrewcookson.co.uk)  
+- ✉️ Contact me at [andrewcookson@email.com](mailto:andrewcookson@email.com)  
+- 🚀 Currently working on [personal projects](http://github.com/andyc90?tab=projects)  
+- 🧠 Learning Javascript, React, MySQL & MongoDB  
+- 🤝 Open to collaborating on interesting projects
 
-[![GitHub Followers](https://img.shields.io/github/followers/andyc90?logo=github&style=for-the-badge&color=21262D&labelColor=21262D)](https://www.github.com/andyc90)
+  </div>
+
+  <div style="flex: 1;">
 
 ## Socials
 
-[![Email](https://img.shields.io/badge/-Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:andrewcookson@email.com) [![GitHub](https://img.shields.io/badge/-GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/andyc90) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0B66C2)](https://www.linkedin.com/in/andrewcookson1990) [![Dev.to](https://img.shields.io/badge/-Dev.to-21262D?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/andyc90)
+[![Email](https://img.shields.io/badge/-Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:andrewcookson@email.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/andyc90)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0B66C2)](https://www.linkedin.com/in/andrewcookson1990)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-21262D?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/andyc90)
+
+  </div>
+
+</div>
+
 
 ## Skills
 
