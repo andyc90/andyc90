@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/andyc90/andyc90/assets/127922140/590ef261-b848-4c9b-a981-3ff9408bf0e5)
+![github-header-image](https://github.com/andyc90/andyc90/assets/127922140/fb7601bf-6a43-4382-9629-88d4a7a8e774)
 
 # Hi, I'm Andrew <img src="https://github.com/andyc90/andyc90/assets/127922140/9fdb21c9-a4b4-4a07-afaf-de18cce882ae" width="35" height="35" alt="animated-wave">
 
