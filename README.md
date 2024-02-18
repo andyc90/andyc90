@@ -1,4 +1,7 @@
-# Hi, I'm Andrew 👋
+![github-header-image](https://github.com/andyc90/andyc90/assets/127922140/590ef261-b848-4c9b-a981-3ff9408bf0e5)
+
+# Hi, I'm Andrew ![animated-wave](https://github.com/andyc90/andyc90/assets/127922140/9fdb21c9-a4b4-4a07-afaf-de18cce882ae)
+
 
 I am passionate about creating beautiful and user-friendly web experiences, on a mission to bring ideas to life through code. With a keen eye for design and a knack for translating concepts into interactive interfaces, I thrive in the ever-evolving world of front-end development.
 
