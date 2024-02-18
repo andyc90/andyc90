@@ -23,16 +23,6 @@ I am passionate about creating beautiful and user-friendly web experiences, on a
 
 ## Stats
 
-<div style="display: flex; justify-content: space-between;">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andyc90&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=21262D&hide_border=true&show_icons=true&border_radius=0)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andyc90&stroke=ffffff&background=21262D&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0)
-
-  <div style="text-align: center;">
-
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyc90&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=21262D&hide_border=true&border_radius=0)
-
-  </div>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyc90&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=21262D&hide_border=true&border_radius=0)
