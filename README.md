@@ -11,8 +11,6 @@ I am passionate about creating beautiful and user-friendly web experiences, on a
 🧠 Learning Javascript, React, MySQL & MongoDB  
 🤝 Open to collaborating on interesting projects
 
-[![GitHub Followers](https://img.shields.io/github/followers/andyc90?logo=github&style=for-the-badge&color=21262D&labelColor=21262D)](https://www.github.com/andyc90)
-
 ## Socials
 
 [![Email](https://img.shields.io/badge/-Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:andrewcookson@email.com) [![GitHub](https://img.shields.io/badge/-GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/andyc90) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0B66C2)](https://www.linkedin.com/in/andrewcookson1990) [![Dev.to](https://img.shields.io/badge/-Dev.to-21262D?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/andyc90)
