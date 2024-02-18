@@ -11,7 +11,9 @@ I am passionate about creating beautiful and user-friendly web experiences, on a
 🧠 Learning Javascript, React, MySQL & MongoDB  
 🤝 Open to collaborating on interesting projects
 
-[![GitHub Followers](https://img.shields.io/github/followers/andyc90?logo=github&style=for-the-badge&color=21262D&labelColor=21262D)](https://www.github.com/andyc90)
+<a href="https://www.github.com/andyc90" target="_blank">
+  <img src="https://img.shields.io/github/followers/andyc90?logo=github&style=for-the-badge&color=21262D&labelColor=21262D" alt="GitHub Followers" style="border-radius: 5px;">
+</a>
 
 ## Socials
 
