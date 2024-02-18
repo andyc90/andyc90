@@ -2,7 +2,7 @@
 
 # Hi, I'm Andrew <img src="https://github.com/andyc90/andyc90/assets/127922140/9fdb21c9-a4b4-4a07-afaf-de18cce882ae" width="35" height="35" alt="animated-wave">
 
-I am passionate about creating beautiful and user-friendly web experiences, on a mission to bring ideas to life through code. With a keen eye for design and a knack for translating concepts into interactive interfaces, I thrive in the ever-evolving world of front-end development.
+I am passionate about developing beautiful and user-friendly web experiences, on a mission to bring ideas to life through code. With a keen eye for design and a knack for translating concepts into interactive interfaces, I thrive in the ever-evolving world of front-end development.
 
 🌍 Based in the United Kingdom  
 🖥️ See my portfolio at [andrewcookson.co.uk](http://andrewcookson.co.uk)  
