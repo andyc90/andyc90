@@ -4,9 +4,7 @@
 
 I'm passionate about developing beautiful user-friendly web experiences and I'm on a mission to bring ideas to life through code. With a keen eye for design and a knack for translating concepts into interactive interfaces, I thrive in the ever-evolving world of front-end development.
 
-🌍 Based in the United Kingdom  
-🖥️ See my portfolio at [andrewcookson.netlify.app](https://andrewcookson.netlify.app)  
-✉️ Contact me at [andrewcookson@email.com](mailto:andrewcookson@email.com)  
+🌍 Based in the United Kingdom   
 🚀 Currently working on [personal projects](http://github.com/andyc90?tab=projects)  
 🧠 Learning Javascript, React, MySQL & MongoDB  
 🤝 Open to collaborating on interesting projects
