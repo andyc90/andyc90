@@ -9,9 +9,7 @@ I'm passionate about developing beautiful user-friendly web experiences and I'm 
 🧠 Learning Javascript, React, MySQL & MongoDB  
 🤝 Open to collaborating on interesting projects
 
-## Socials
-
-[![Email](https://img.shields.io/badge/-Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:andrewcookson@email.com) [![GitHub](https://img.shields.io/badge/-GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/andyc90) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0B66C2)](https://www.linkedin.com/in/andrewcookson1990) [![Dev.to](https://img.shields.io/badge/-Dev.to-21262D?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/andyc90)
+## [![GitHub](https://img.shields.io/badge/-GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/andyc90) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0B66C2)](https://www.linkedin.com/in/andrewcookson1990) [![Dev.to](https://img.shields.io/badge/-Dev.to-21262D?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/andyc90)
 
 ## Skills
 
